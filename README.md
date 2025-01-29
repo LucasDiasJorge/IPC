@@ -25,3 +25,5 @@ Segmentos de memória compartilhada permitem que vários processos acessem uma �
 ### Semáforos
 
 Semáforos são ferramentas de sincronização usadas para gerenciar o acesso a recursos compartilhados. Esta seção explora como implementar semáforos em C para evitar condições de corrida.
+
+ref.: _[IPC: To Share Memory Or To Send Messages](https://www.youtube.com/watch?v=Y2mDwW2pMv4)_
